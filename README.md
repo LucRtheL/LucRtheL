@@ -6,7 +6,7 @@ Here are the languages that I am (mostly) familiar with:
 - Python
 - HTML
 - Shell
-- Batch scripting if you call it a language ¯\_(ツ)_/¯
+- Batch scripting if you call it a language ¯\\_(ツ)_/¯
 
 Here are the languages that I am interested in learning:
 - Java
